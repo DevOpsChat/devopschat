@@ -6,7 +6,7 @@ DevOpsChat Code of Conduct
 
 
 
-The DevOps community is a mixture of professionals and volunteers who come from all over the world and work together to make our community better, including mentoring, teaching, and connecting with people inside and outside the community. #vandevops is founded on the idea that a strong community benefits everyone. To that end, please consider as a guideline that you should always try to benefit the community by encouraging participation, open-mindedness, learning, and safety in every interaction. This applies equally to founders, mentors, and to anyone who is seeking help and guidance.
+The DevOps community is a mixture of professionals and volunteers who come from all over the world and work together to make our community better, including mentoring, teaching, and connecting with people inside and outside the community. DevOpsChat is founded on the idea that a strong community benefits everyone. To that end, please consider as a guideline that you should always try to benefit the community by encouraging participation, open-mindedness, learning, and safety in every interaction. This applies equally to founders, mentors, and to anyone who is seeking help and guidance.
 
 More than just a guideline, all participants in our channel are required to agree with and abide by the following code of conduct. Channel moderators will enforce this code at all times. We are expecting cooperation from all participants to help ensure a safe environment for everybody.
 
@@ -40,7 +40,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Channel operators will be happy to help participants through direct intervention, contacting local law enforcement, or by otherwise assisting those experiencing harassment to feel safe. We value your active participation in the community.
 
-We expect participants to follow these rules at all times, on and offline, with everyone involved in the channel. Harassment of our colleagues outside of #vandevops will not be simply ignored.
+We expect participants to follow these rules at all times, on and offline, with everyone involved in the channel. Harassment of our colleagues outside of DevOpsChat will not be simply ignored.
 
 #Recruiters, Sales, and other Promoters
 
