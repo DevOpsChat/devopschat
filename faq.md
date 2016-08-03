@@ -1,4 +1,4 @@
-\DevOpsChat Frequently Asked Questions
+DevOpsChat Frequently Asked Questions
 ===================================
 
 Q: Why is this page blank?
